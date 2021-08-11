@@ -1,0 +1,10 @@
+1. Double click cv.exe
+2. Select 0: Process new image
+3. image path: 1.jpg (use relative local path)
+4. threshold: 0.15
+5. Wait for image to be displayed.
+6. Close image before continue
+7. Select 1: Save new image
+8. input new image path, e.g 1_new.jpg (use relative local path) 
+9. Repeat step 2 to 8 for all images.
+10. input 2: Exit to exit the program.
